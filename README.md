@@ -1,7 +1,7 @@
 # Predicting document class from images
 
 ## Description
-Given a set of grayscale document images, the task is to classify each image into one of the 16 classes or document types. The training dataset consists of 16000 images with 1000 images belonging to each class. The dataset was collected from the RVL-CDIP dataset
+Given a set of grayscale document images, the task is to classify each image into one of the 16 classes or document types. The training dataset consists of 16000 images with 1000 images belonging to each class. The dataset was collected from the RVL-CDIP dataset (A. W. Harley, A. Ufkes, K. G. Derpanis, "Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval," in ICDAR, 2015)
 
 ### Files
 **train** - this folder consists of the training images as .tiff file. DO NOT change the ids of the individual image files as they are used for mapping to the corresponding classes.
@@ -19,4 +19,5 @@ Given a set of grayscale document images, the task is to classify each image int
 ## Reference
 - [Kaggle Datathon](https://www.kaggle.com/competitions/datathonindoml-2022/overview)
 - [Code from kaggle](https://www.kaggle.com/code/rahuldshetty/datathon)
+- [Data](https://storage.googleapis.com/kaggle-competitions-data/kaggle-v2/38137/4103414/bundle/archive.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1668841955&Signature=x17AJG%2F6FRbXjW5NIlnS5bU%2B%2FB0v4yLgHip7DccFsbS%2F1dFmWqDsr2Cx6XeO40yBeuN43o71ydvG5UXcBQuwt2Y1tkGjDM0YwjfnlUDvMfJ7GHwQSFj327M%2Bcca%2FZmEdcBgqwq%2F%2B%2FfEcgQ1TH3uIK8X11vBulTuWf9f%2F3L%2BnO8AazfhxmVblN9DxshvJ2EK6mG1Vhzfwx%2FxhvqsYsZkzcdYBWCUNj7m6s8UOsjUeZDjj8k84nX04LLJcChP9JHsCm8F20%2BMDW8Csu2YTvXoSlHMC2JdFqz4I7zjxlmqlkWIcaWyH%2BpywH2vJBB8XQFP4QNC2LRX8mHIQ12HUXnFHIQ%3D%3D&response-content-disposition=attachment%3B+filename%3Ddatathonindoml-2022.zip)
 
