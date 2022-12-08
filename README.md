@@ -16,6 +16,14 @@ Given a set of grayscale document images, the task is to classify each image int
 ### Data/Model Version Control
 - [DagsHub](https://dagshub.com/lokesh1197/predict_document_class)
 
+### Code
+- [src](./src/) contains the ipython notebooks
+- [models](https://dagshub.com/lokesh1197/predict_document_class/src/main/src/models) contains the saved models (version controlled through dvc at dagshub)
+- [data](https://dagshub.com/lokesh1197/predict_document_class/src/main/data) contains the dataset (version controlled through dvc at dagshub)
+- [regression.ipynb](./src/regression.ipynb) contains the implementation of logistic regression without deep neural nets
+- [cnn\_basic.ipynb](./src/cnn_basic.ipynb) contains the basic implementation of cnn
+- [cnn\_advanced.ipynb](./src/cnn_advanced.ipynb) contains the implementation of cnn along with many improvements
+
 ## Datasets
 - [Kaggle](https://www.kaggle.com/competitions/datathonindoml-2022/data)
 - [RVL-CDIP](https://huggingface.co/datasets/rvl_cdip)
