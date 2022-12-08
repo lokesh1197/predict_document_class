@@ -13,6 +13,9 @@ Given a set of grayscale document images, the task is to classify each image int
 - `id` -> image id, part of the image file. (E.g., if the image file 1234.tiff -> 1234)
 - `label` -> class label for the corresponding image, In total 16 classes indexed from 0 to 15
 
+### Data/Model Version Control
+- [DagsHub](https://dagshub.com/lokesh1197/predict_document_class)
+
 ## Datasets
 - [Kaggle](https://www.kaggle.com/competitions/datathonindoml-2022/data)
 - [RVL-CDIP](https://huggingface.co/datasets/rvl_cdip)
@@ -23,4 +26,3 @@ Given a set of grayscale document images, the task is to classify each image int
 - [DocFormer Paper](https://arxiv.org/pdf/2106.11539v2.pdf)
 - [Implementation of DocFormer](https://github.com/shabie/docformer)
 - [Document Image Classification Top Models](https://paperswithcode.com/sota/document-image-classification-on-rvl-cdip)
-
