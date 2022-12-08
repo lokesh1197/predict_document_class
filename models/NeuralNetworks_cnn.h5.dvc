@@ -1,0 +1,4 @@
+outs:
+- md5: 35a859bf4c9e0d773fcca54e86dce45e
+  size: 75747864
+  path: NeuralNetworks_cnn.h5
