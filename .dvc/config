@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+[remote "origin"]
+    url = https://dagshub.com/lokesh1197/predict_document_class.dvc
