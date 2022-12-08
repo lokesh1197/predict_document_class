@@ -1,0 +1,4 @@
+outs:
+- md5: 5977303d9fdb4ecd2edaae0df973c59c
+  size: 301022
+  path: LinearRegression.sav
